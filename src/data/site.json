@@ -1,0 +1,49 @@
+{
+  "siteUrl": "https://luukogod.github.io/luukogod-porfolio/",
+  "person": {
+    "displayName": "Ryan Yudantara",
+    "copyrightName": "Ryan Yudantara"
+  },
+  "contact": {
+    "email": "yudantararyan09@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ryan-yudantara-27711a400/",
+    "github": "https://github.com",
+    "telegram": "https://t.me/lorine93ss"
+  },
+  "hero": {
+    "titleLead": "Senior",
+    "roles": ["Full Stack Engineer", "Mobile Engineer"],
+    "tagline": "Scalable .NET full stack systems and cross-platform mobile apps for iOS & Android",
+    "description": "ASP.NET Core & .NET 6/7/8 • React & Next.js • React Native (Expo) • Flutter • .NET MAUI • SQL Server • cloud-native APIs"
+  },
+  "seo": {
+    "siteName": "Ryan Yudantara",
+    "title": "Developer Portfolio | Senior Full Stack & Mobile Engineer | .NET, React, React Native, Flutter",
+    "description": "Senior full stack and mobile engineer portfolio: ASP.NET Core and .NET 6/7/8 Web APIs, React and Next.js frontends, React Native, Flutter, and .NET MAUI mobile apps, SQL Server, PostgreSQL, Azure, Docker, and CI/CD.",
+    "keywords": [
+      "developer portfolio",
+      "senior full stack engineer",
+      "senior mobile engineer",
+      ".NET full stack engineer",
+      "ASP.NET Core portfolio",
+      ".NET Web API",
+      "React Native developer",
+      "Flutter developer",
+      ".NET MAUI developer",
+      "React portfolio",
+      "Next.js developer",
+      "Node.js backend",
+      "Entity Framework",
+      "full stack developer portfolio",
+      "mobile app developer",
+      "enterprise web applications",
+      "SQL Server",
+      "PostgreSQL"
+    ],
+    "author": "Ryan Yudantara",
+    "ogImage": "https://cdn.dribbble.com/userupload/31363804/file/original-d6770bbed5cca1f3c1146fc1d425d40d.png?resize=1024x768&vertical=center",
+    "twitterCard": "summary_large_image",
+    "twitterSite": "",
+    "jobTitle": "Senior Full Stack & Mobile Engineer"
+  }
+}
